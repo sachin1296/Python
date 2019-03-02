@@ -15,4 +15,4 @@ while i>0:
     total=total+i
     i=i-1
 
-print(f"total is={total}") 
+print(f"total is={total}") # f in print
